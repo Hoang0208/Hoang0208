@@ -29,6 +29,8 @@ shared Folder. However, IT and Management should full access to all sharedFolder
 
 12.Install and configure SSH protocol, so IT and Management users have remoteaccess to the server via SSH and test your configuration. 
 <img width="803" alt="twelfth question" src="https://user-images.githubusercontent.com/89973943/156228892-8dbd1ded-d173-4d98-9288-378d2bde9fcf.png">
+<img width="798" alt="Twelth question as well" src="https://user-images.githubusercontent.com/89973943/156230443-dd7b8c6a-1aca-4da4-8d42-34b2a6b5cf48.png">
+
 
 13.Install apache2 web server with SSL certificate and configure a demo site, thesite should be accessible via the URL https://www.yourname.local
 Have no idea to do the last question 
